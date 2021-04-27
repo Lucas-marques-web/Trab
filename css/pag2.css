@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+body{
+     background-color: #3b3bfd;
+   
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+nav{
+    margin-top: 50px;
+ }
+pre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 100px;
+   
+}
+
+main{
+    background-image: url(beber.jpg);
+    float: right;
+    margin-top: 70px;
+    margin-right: 250px;
+}
+
+
+button{
+    float: right;
+    margin-right: 40px;
+    border: 10px;
+    padding: 15px;
+    padding-left: 20px;
+     padding-right: 20px;
+   margin-bottom: 0%;
+   margin-top: 80px;
+   background-color: rgb(43, 153, 187);
+   
+}
+#botao2{
+    float: left;
+    margin-left: 40px;
+   
+}
