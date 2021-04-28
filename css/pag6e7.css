@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #87CEFA;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header {
+    padding-top: 2%;
+    text-align: center;
+
+}
+
+#main-home {
+    padding-top: 3%;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.btn-secondary {
+    width: 100%;
+    color: white;
+
+}
+
+.btn-custom {
+	padding: 1px 3px 3px 2px;
+	border-radius: 50px;
+}
+
+.btn-icon {
+	padding: 8px;
+    color: white;
+    background: #ffffff;
+}
+
+#div-thw {
+    margin-top: 15%;
+    
+}
+
+#div-one {
+    margin-top: 10%;
+}
+
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+/* Month header */
+.month {
+  padding: 70px 25px;
+  width: 100%;
+  background: #2146c0;
+  text-align: center;
+}
+
+/* Month list */
+.month ul {
+  margin: 0;
+  padding: 0;
+}
+
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+  float: left;
+  padding-top: 10px;
+}
+
+/* Next button */
+.month .next {
+  float: right;
+  padding-top: 10px;
+}
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+  background-color:#ddd;
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.6%;
+  color: #666;
+  text-align: center;
+}
+
+/* Days (1-31) */
+.days {
+  padding: 10px 0;
+  background: #eee;
+  margin: 0;
+}
+
+.days li {
+  list-style-type: none;
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size:12px;
+  color: #777;
+}
+
+/* Highlight the "current" day */
+.days li .active {
+  padding: 5px;
+  background: #2146c0;
+  color: white !important
+}
+
+/* ajuste2 */
+#main2 {
+    padding-top: 3%;
+}
+
+#header2 {
+    background-color: #87CEFA;
+        padding: 2rem;
+        width: 100%;
+
+}
+
+.navbar-brand {
+    text-align: right;
+        width: 100%;
+        background-color:#87CEFA ;
+        position: absolute;
+
+}
+
+.container-fluid {
+    background-color:#87CEFA ;
+}
+
+.bg-light {
+    background-color:#87CEFA ;
+}
+
+#header2 div {
+    background-color: #87CEFA;
+}
