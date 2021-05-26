@@ -150,3 +150,15 @@ body {font-family: Verdana, sans-serif;}
 #header2 div {
     background-color: #87CEFA;
 }
+
+.navbar-brand {
+  text-align: right;
+      width: 100%;
+      background-color:#87CEFA ;
+      position: absolute;
+
+}
+
+#calendar {
+margin-right:15%;
+}
