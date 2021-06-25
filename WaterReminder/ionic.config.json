@@ -1,0 +1,7 @@
+{
+  "name": "WaterReminder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
