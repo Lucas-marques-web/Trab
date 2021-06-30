@@ -1,7 +1,8 @@
 {
   "name": "WaterReminder",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
